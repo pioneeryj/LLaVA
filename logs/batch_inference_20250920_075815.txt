@@ -1,0 +1,6 @@
+2025-09-20 07:58:15,535 - Starting batch LLaVA inference
+2025-09-20 07:58:15,535 - Log file: logs/batch_inference_20250920_075815.txt
+2025-09-20 07:58:15,535 - Base path: /mnt/HDD/yoonji/anomalyCBM/data/DTD
+2025-09-20 07:58:15,535 - Loading test data from: /mnt/HDD/yoonji/anomalyCBM/data/DTD/meta.json
+2025-09-20 07:58:15,539 - Total images to process: 1304
+2025-09-20 07:58:15,539 - Loading model: liuhaotian/llava-v1.5-7b

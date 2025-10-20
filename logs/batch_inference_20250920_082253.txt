@@ -1,0 +1,143 @@
+2025-09-20 08:22:53,188 - Starting batch LLaVA inference
+2025-09-20 08:22:53,188 - Log file: logs/batch_inference_20250920_082253.txt
+2025-09-20 08:22:53,188 - Base path: /mnt/HDD/yoonji/anomalyCBM/data/DTD
+2025-09-20 08:22:53,188 - Loading test data from: /mnt/HDD/yoonji/anomalyCBM/data/DTD/meta.json
+2025-09-20 08:22:53,192 - Total images to process: 1304
+2025-09-20 08:22:53,193 - Loading model: liuhaotian/llava-v1.5-7b
+2025-09-20 08:23:02,278 - Model loaded successfully
+2025-09-20 08:23:02,278 - Processing 1/1304: Woven_001/test/bad/000.png
+2025-09-20 08:23:02,957 - Error processing Woven_001/test/bad/000.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:02,957 - Processing 2/1304: Woven_001/test/bad/001.png
+2025-09-20 08:23:03,093 - Error processing Woven_001/test/bad/001.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:03,093 - Processing 3/1304: Woven_001/test/bad/002.png
+2025-09-20 08:23:03,205 - Error processing Woven_001/test/bad/002.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:03,206 - Processing 4/1304: Woven_001/test/bad/003.png
+2025-09-20 08:23:03,308 - Error processing Woven_001/test/bad/003.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:03,308 - Processing 5/1304: Woven_001/test/bad/004.png
+2025-09-20 08:23:03,433 - Error processing Woven_001/test/bad/004.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:03,433 - Processing 6/1304: Woven_001/test/bad/005.png
+2025-09-20 08:23:03,566 - Error processing Woven_001/test/bad/005.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:03,566 - Processing 7/1304: Woven_001/test/bad/006.png
+2025-09-20 08:23:03,707 - Error processing Woven_001/test/bad/006.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:03,707 - Processing 8/1304: Woven_001/test/bad/007.png
+2025-09-20 08:23:03,844 - Error processing Woven_001/test/bad/007.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:03,845 - Processing 9/1304: Woven_001/test/bad/008.png
+2025-09-20 08:23:03,967 - Error processing Woven_001/test/bad/008.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:03,967 - Processing 10/1304: Woven_001/test/bad/009.png
+2025-09-20 08:23:04,084 - Error processing Woven_001/test/bad/009.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:04,085 - Processing 11/1304: Woven_001/test/bad/010.png
+2025-09-20 08:23:04,223 - Error processing Woven_001/test/bad/010.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:04,223 - Processing 12/1304: Woven_001/test/bad/011.png
+2025-09-20 08:23:04,371 - Error processing Woven_001/test/bad/011.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:04,371 - Processing 13/1304: Woven_001/test/bad/012.png
+2025-09-20 08:23:04,514 - Error processing Woven_001/test/bad/012.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:04,514 - Processing 14/1304: Woven_001/test/bad/013.png
+2025-09-20 08:23:04,639 - Error processing Woven_001/test/bad/013.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:04,640 - Processing 15/1304: Woven_001/test/bad/014.png
+2025-09-20 08:23:04,778 - Error processing Woven_001/test/bad/014.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:04,778 - Processing 16/1304: Woven_001/test/bad/015.png
+2025-09-20 08:23:04,926 - Error processing Woven_001/test/bad/015.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:04,926 - Processing 17/1304: Woven_001/test/bad/016.png
+2025-09-20 08:23:05,070 - Error processing Woven_001/test/bad/016.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:05,071 - Processing 18/1304: Woven_001/test/bad/017.png
+2025-09-20 08:23:05,214 - Error processing Woven_001/test/bad/017.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:05,215 - Processing 19/1304: Woven_001/test/bad/018.png
+2025-09-20 08:23:05,378 - Error processing Woven_001/test/bad/018.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:05,379 - Processing 20/1304: Woven_001/test/bad/019.png
+2025-09-20 08:23:05,543 - Error processing Woven_001/test/bad/019.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:05,543 - Processing 21/1304: Woven_001/test/bad/020.png
+2025-09-20 08:23:05,686 - Error processing Woven_001/test/bad/020.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:05,686 - Processing 22/1304: Woven_001/test/bad/021.png
+2025-09-20 08:23:05,839 - Error processing Woven_001/test/bad/021.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:05,839 - Processing 23/1304: Woven_001/test/bad/022.png
+2025-09-20 08:23:05,948 - Error processing Woven_001/test/bad/022.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:05,948 - Processing 24/1304: Woven_001/test/bad/023.png
+2025-09-20 08:23:06,041 - Error processing Woven_001/test/bad/023.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:06,041 - Processing 25/1304: Woven_001/test/bad/024.png
+2025-09-20 08:23:06,360 - Error processing Woven_001/test/bad/024.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:06,360 - Processing 26/1304: Woven_001/test/bad/025.png
+2025-09-20 08:23:06,499 - Error processing Woven_001/test/bad/025.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:06,499 - Processing 27/1304: Woven_001/test/bad/026.png
+2025-09-20 08:23:06,627 - Error processing Woven_001/test/bad/026.png: cublasLt ran into an error!
+	shapeA=torch.Size([4096, 4096]), shapeB=torch.Size([641, 4096]), shapeC=(641, 4096)
+	(lda, ldb, ldc)=(c_int(4096), c_int(4096), c_int(4096))
+	(m, n, k)=(c_int(4096), c_int(641), c_int(4096))
+2025-09-20 08:23:06,627 - Processing 28/1304: Woven_001/test/bad/027.png
